@@ -26,6 +26,8 @@ h1, h2 {
   border-bottom: 1px solid grey;
   padding-top: 2rem;
   padding-bottom: 2rem;
+  margin-left: 20px;
+  margin-top: 20px;
 }
 
 header, footer {
